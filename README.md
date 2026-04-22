@@ -123,11 +123,16 @@ Including source prediction adds complexity but provides limited gains due to cl
 ## Project Structure
 
 MscDissertation/
-- Results/ # Images of the results obtained
-- notebooks/ # Jupyter notebooks for analysis and modelling
-- Dissertation_Report.pdf
-- requirements.txt
-- README.md
+
+├── Results/ # Images of the results obtained
+
+├── notebooks/ # Jupyter notebooks for analysis and modelling
+
+├── Dissertation_Report.pdf
+
+├── requirements.txt
+
+├──README.md
 
 - Dataset is not included. Download from Zenodo link provided above.
 
